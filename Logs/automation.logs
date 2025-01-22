@@ -1,0 +1,14 @@
+2025-01-22 15:38:14 DEBUG TestNG:82 - suiteXmlPath: "D:\OpenCart\master.xml"
+2025-01-22 15:38:26 INFO  TC001_AccountregistrationTest:19 - **** Starting TC001 ****
+2025-01-22 15:38:26 INFO  TC001_AccountregistrationTest:23 - **** Clicked on MyAccount TC001 ****
+2025-01-22 15:38:28 INFO  TC001_AccountregistrationTest:25 - **** Clicked on Registerbutton TC001 ****
+2025-01-22 15:38:31 INFO  TC001_AccountregistrationTest:29 - **** Providing User Details TC001 ****
+2025-01-22 15:38:33 INFO  TC001_AccountregistrationTest:39 - **** Validating Expected Message TC001 ****
+2025-01-22 15:38:33 INFO  TC001_AccountregistrationTest:44 - Test passed
+2025-01-22 16:03:49 DEBUG TestNG:82 - suiteXmlPath: "D:\OpenCart\master.xml"
+2025-01-22 16:03:56 INFO  TC001_AccountregistrationTest:19 - **** Starting TC001 ****
+2025-01-22 16:03:56 INFO  TC001_AccountregistrationTest:23 - **** Clicked on MyAccount TC001 ****
+2025-01-22 16:03:58 INFO  TC001_AccountregistrationTest:25 - **** Clicked on Registerbutton TC001 ****
+2025-01-22 16:04:01 INFO  TC001_AccountregistrationTest:29 - **** Providing User Details TC001 ****
+2025-01-22 16:04:03 INFO  TC001_AccountregistrationTest:39 - **** Validating Expected Message TC001 ****
+2025-01-22 16:04:03 INFO  TC001_AccountregistrationTest:44 - Test passed
